@@ -19,12 +19,16 @@ public class FinalKey {
 			System.out.println(name);
 			System.out.println(a);
 			System.out.println("add="+(b+c));
-			System.out.println("sub="+(b-c));
+			System.out.println("sub="+(b+c));
 		}
 		public static void main(String[]args) {
 			FinalKey k1=new FinalKey();
 			k1.method1("arun");
 			k1.method2(10);
+
+
+
+
 	}
 
 }
