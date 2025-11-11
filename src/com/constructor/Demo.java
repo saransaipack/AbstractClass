@@ -22,6 +22,8 @@ public class Demo {
 		Demo d1=new Demo("name");
 		d1.method2();
 		d1.method1();
+d1.method1();
+
 	
 		
 }}
